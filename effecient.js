@@ -50,3 +50,6 @@ app.listen(5000, () => {
 
 //This is how we create different paths for different things we want to access 
 //This is how we access values
+//These are route parameters
+//routes can get very long as well for example '/api/people/:nameOfperson' we can have 
+//alot of parameters after this as well
